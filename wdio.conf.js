@@ -25,9 +25,6 @@ exports.config = {
         'tests/example-spec.js'
     ],
     // Patterns to exclude.
-    exclude: [
-        // 'path/to/excluded/files'
-    ],
     //
     // ============
     // Capabilities
